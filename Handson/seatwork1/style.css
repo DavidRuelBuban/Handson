@@ -1,0 +1,11 @@
+/* Custom CSS to center the box */
+body {
+    background-color: bisque;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* This ensures the box is centered vertically */
+    width: 100vw; /* This ensures the box is centered horizontally */
+}
+
+/******** END ********/
